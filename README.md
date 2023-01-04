@@ -1,6 +1,8 @@
 ![gfm](https://user-images.githubusercontent.com/30534965/210409286-ff36deb0-3941-42ac-a902-8326c91cfe82.png)
 
-# deno-gfm 🦕
+`Note: flavoredmd is a fork of deno-gfm`
+
+# flavoredmd 🦕
 
 Server-side GitHub Flavored Markdown rendering for Deno, including GitHub style
 CSS, syntax highlighting, and HTML sanitization.
